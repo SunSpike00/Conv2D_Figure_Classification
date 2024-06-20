@@ -7,7 +7,7 @@
 
 * 사용방법
   1. 코랩에서 도형_이미지_구분_CNN.ipynb을 열기
-  2. 구글 드라이브에서 datasets.zip 파일의 압축을 풀기.
-  3. train 데이터의 경로를 train_path에 넣어 값을 변경.
-  4. test 데이터의 경로를 test_path에 넣어 값을 변경.
+  2. 구글 드라이브에서 datasets.zip 파일의 압축을 풀기
+  3. train 데이터의 경로를 train_path에 넣어 값을 변경
+  4. test 데이터의 경로를 test_path에 넣어 값을 변경
   5. 전체 실행
